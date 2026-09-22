@@ -1,0 +1,5 @@
+{
+  "logistic_regression_auc": 0.8003,
+  "xgboost_auc": 0.7827,
+  "selected_model": "logistic_regression"
+}

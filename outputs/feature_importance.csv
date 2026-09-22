@@ -1,0 +1,9 @@
+feature,importance
+contract_type_two_year,0.2606032
+contract_type_one_year,0.2492414
+satisfaction_score,0.13635352
+has_autopay,0.08962142
+tenure_months,0.08939842
+num_support_calls,0.07502374
+monthly_charge,0.05148477
+num_products,0.0482735
